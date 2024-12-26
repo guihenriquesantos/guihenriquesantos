@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Guilherme Henrique
 
-- 🌱 Cursando Análise e Desenvolvimentos de Sistemas
-- 🖥️ Desenvolvedor Iniciante
+- 🌱 CST Análise e Desenvolvimentos de Sistemas
+- 🖥️ Front-end Developer
 
 
 <div>
