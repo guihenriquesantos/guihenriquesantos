@@ -1,7 +1,6 @@
 ### Hi there!! I'm Guilherme Henrique
 
 - 🌱 CST Análise e Desenvolvimentos de Sistemas
-- 🖥️ Front-end Developer
 
 
 <div>
